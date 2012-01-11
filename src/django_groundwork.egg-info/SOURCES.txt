@@ -1,0 +1,10 @@
+setup.py
+src/django-groundwork/__init__.py
+src/django-groundwork/management/__init__.py
+src/django-groundwork/management/commands/__init__.py
+src/django-groundwork/management/commands/groundwork.py
+src/django-groundwork/management/commands/placeholders.py
+src/django_groundwork.egg-info/PKG-INFO
+src/django_groundwork.egg-info/SOURCES.txt
+src/django_groundwork.egg-info/dependency_links.txt
+src/django_groundwork.egg-info/top_level.txt
